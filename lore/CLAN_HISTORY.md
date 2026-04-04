@@ -13,8 +13,33 @@ Not a warrior's boast. A description of method. The clan fights with precision, 
 
 ## Origins
 
-> TODO: Confirm founding myth -- how did the first Pourfendeur receive shadow power? (Pending creative decision)
-> TODO: Confirm clan symbol/crest design for sword carvings (Pending creative decision)
+## Clan Symbol
+
+A knife with angel wings. Angular, stylised -- not decorative. A weapon engraving. Not designed to be beautiful.
+
+Old French inscription carved into the handle and blade: **"Les morts ne vivront pas"** -- *The dead shall not live.*
+
+This symbol appears on Tré's greatsword and both of Gabriel's daggers. It is the only visual continuity between the medieval clan and the brothers. They do not know what it means when they first see it. Madeleine will tell them.
+
+---
+
+## Founding Myth
+
+The shadow power was not a gift. It was a deal.
+
+The first Pourfendeur -- a great-great-uncle whose name the clan recorded but rarely spoke -- made a bargain with a minor demon in a moment of catastrophic loss. His village had been destroyed. The Church had called it God's will. He did not accept that answer. He found something in the dark and made an arrangement: power to take revenge, in exchange for something the demon could feed on.
+
+He got the power. He took the revenge. It worked.
+
+What he did not understand was that the feeding arrangement did not end with him. The deal bound to the bloodline. Every Pourfendeur born after carries both the power and the cost -- the emotional hollowness that comes with extended use is not a side effect. It is the demon's payment, still collecting across generations.
+
+The clan discovered this eventually. They did not undo it -- they could not. They learned to manage it. To set limits on power use. To train discipline before the shadow activated so that when it came, the carrier had habits already in place.
+
+Tré will learn this through Madeleine -- carefully, with weight, because the cost is real.
+
+Gabriel will never hear it the right way. He will interpret the hollowness as clarity. As the noise of emotion being stripped away, leaving only the signal. He is wrong. But he will not find out he is wrong until it has gone further than Madeleine intended.
+
+---
 
 The Pourfendeur clan emerged in France in the early medieval period. Not nobility. Not peasantry. Something apart -- a family that stood between the human world and the demon layer that bled into it at the soft points of history.
 
@@ -26,7 +51,7 @@ This means the clan has always had a delay between birth and becoming -- a windo
 
 ## Medieval Period -- 14th Century France
 
-The clan was at its peak in the 1300s. A network of extended family and trained hunters spread across northern and central France. Not large -- perhaps 40-60 blood members at the height. But organised. Each generation trained in combat before the shadow arrived, so when it came, they had something to work with.
+The clan was at its peak in the 1300s. A network of extended family and trained hunters spread across northern and central France. Not large -- 12-15 active blood members at peak. An elite family, not a force. Each generation trained in combat before the shadow arrived, so when it came, they had something to work with.
 
 They operated in silence. French society in the 1300s was not equipped to hold the knowledge that demons existed -- the Church would have burned the clan as witches faster than the demons would have killed them. The Pourfendeur family maintained surface lives as merchants, minor landowners, craftspeople. The hunting was done at night, by family units, without record.
 

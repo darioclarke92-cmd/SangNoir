@@ -65,7 +65,7 @@ His mark develops differently -- same clan symbol but slightly more irregular. T
 
 ## Power Specification
 
-**Shadow type:** Instinctual. More raw, less controlled than Tre's. Not undisciplined -- he is precise, but precision in a different mode. He does not direct the shadow as a tool -- he becomes the mechanism of it. The shadow does not wait for instruction from Gabriel. It moves when he does.
+**Shadow type:** Raw. Uncontained. The same bloodline power as Tré but without the discipline the clan once trained into its hunters. Gabriel has no framework -- the shadow in him erupts because that is what it does when it has no boundaries. He is not directing it. He is channelling it by instinct, and the instinct is violent. Where Tré has learned to hold the power as a tool, Gabriel IS the tool -- the power runs through him rather than from him.
 
 **Combat style with power:**
 - Dual daggers -- faster than Tre's sword. Close range. Violent.
@@ -75,8 +75,8 @@ His mark develops differently -- same clan symbol but slightly more irregular. T
 
 **The dual daggers:**
 - Shorter than Tre's sword. Matched pair. Slightly different lengths -- the right one slightly longer.
-- Same matte black as Tre's sword. Same clan carvings (matching symbols, applied to the flat of each blade).
-- They form from the shadow at his hands faster than Tre's sword forms from the ground. Less ceremony. More violence.
+- Same matte black as Tré's sword. Clan symbol on the flat of each blade -- knife with angel wings, "Les morts ne vivront pas" carved into the fuller. Same inscription as Tré's sword, applied to both daggers.
+- They form from the shadow at his hands faster than Tré's sword forms from the ground. Less ceremony. More violence.
 
 **Going too far:**
 From Episode 4 onward, there are moments where Gabriel does not stop. A champion is defeated and he continues. Not frenzy -- it is cold. He applies more force than the situation requires because he has decided that will not be a variable again. He is removing certainty of threat. Madeleine's warning to Tre is partly about this: Gabriel is using the power as elimination, not defence.

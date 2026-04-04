@@ -117,14 +117,16 @@ Gabriel's shadow power is the same black as Tre's -- same colour, same particle 
 
 | Parameter | Tre | Gabriel |
 |---|---|---|
-| Vortex force field strength | Lower (0.3) | Higher (0.8) |
-| Particle count per second | 200 | 350 |
-| Particle velocity | 0.5-1.0 m/s | 1.0-2.5 m/s |
-| Coilbehaviour | Directed (toward target) | Expanding (outward) |
-| Detonation sphere scale | 1.0x | 1.3x |
+| Vortex force field strength | Lower (0.3) | Higher (1.2) |
+| Particle count per second | 200 | 500 |
+| Particle velocity | 0.5-1.0 m/s | 2.0-4.0 m/s |
+| Coil behaviour | Directed (toward target) | Erupting (outward, uncontained) |
+| Detonation sphere scale | 1.0x | 1.6x |
+| Detonation duration | 3-5 frames | 3 frames (faster, more violent) |
 | Dagger emergence speed | -- | 40% faster than Tre's sword |
+| Idle emission (late season) | None | From Ep8+: low-level smoke from mark at rest |
 
-The visual result: Tre's shadow is a weapon. Gabriel's shadow is a force.
+The visual result: Tre's shadow is a weapon he holds. Gabriel's shadow is a force he barely contains. By Episode 8, Gabriel's shadow starts leaking when he is not actively fighting -- the power is bleeding into his resting state. He does not notice. Tré does.
 
 ---
 

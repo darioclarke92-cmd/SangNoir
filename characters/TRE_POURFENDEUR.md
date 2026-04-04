@@ -87,7 +87,7 @@ Madeleine communicates through it. Heat and cold and pressure, before actual vis
 **The great sword:**
 - Size: Full greatsword. Long, wide at the base, tapers toward the point.
 - Material: Matte black -- not shiny. Slightly lighter than the shadow it comes from.
-- Carved with Pourfendeur symbols along the flat of the blade (TBD -- see CLAN_HISTORY.md)
+- Carved with the clan symbol along the flat of the blade: knife with angel wings, with "Les morts ne vivront pas" running the length of the fuller
 - It does not glow. It is just a sword made of clan-forged metal and shadow.
 - He does not know how to fight with it at first. He swings hard and learns. By Episode 6, he has found his form.
 

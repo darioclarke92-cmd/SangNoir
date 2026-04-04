@@ -5,23 +5,23 @@
 
 ## What Malgris Is
 
-> TODO: Confirm creative decision -- was Malgris once human, or has he always been demon?
-> Current working assumption for placeholder: He was once human -- a warlord from a period before the medieval era. His transformation into something demonic is the result of accumulation: centuries of dealing with demonic forces, accessing demonic power, until the line between the human and the demon dissolved. He did not choose to become what he is. He chose the power, and the power chose the rest.
-> If the creative decision is that he was never human, revise this section accordingly.
+Malgris has always been a demon. There is no human origin, no fall from grace, no deal that went wrong. He was never anything else.
 
-Malgris is ancient. Not the oldest thing in the demon hierarchy -- there are older forces that do not move through the world the way he does -- but old enough that most of the warlords he fought in his lifetime are now fragments in a history no one remembers.
+This matters. He does not carry the weight of what he lost. He has no nostalgia, no grief, no version of himself he is trying to recapture. He is entirely and only what he is -- an ancient demonic intelligence with no residual humanity to appeal to.
 
-He operates with the calm of something that has outlasted everything it has encountered. He is not young enough to be angry. He is not bored. He is simply pursuing the completion of unfinished business with the same patience he has applied to everything else.
+He is ancient. Not the oldest thing in the demon hierarchy -- there are older forces that do not move through the world the way he does -- but old enough that most of what existed when he first began operating is now gone and forgotten.
+
+He operates with the calm of something that has outlasted everything it has encountered. He is not young enough to be angry. He is not bored. He is pursuing a specific goal with the patience of something that does not experience time as pressure.
 
 ---
 
 ## Historical Timeline (Approximate)
 
-**Pre-medieval period (exact era TBD):**
-Human warlord of significant regional power. The details do not matter to the story -- what matters is that this is when he first encountered the demonic layer and began negotiating with it. Power in exchange for something. The usual arrangement. He won territory, extended his life, accumulated.
+**Pre-medieval period (approximate, exact era unknown):**
+Malgris was already operating before most of recorded demon history. What he was doing, who he fought, how he built his position in the demonic hierarchy -- largely unknown. What is known: he has been at or near the top of demon power structures for long enough that no one currently alive remembers a time before him.
 
-**Medieval period, gradual:**
-The human portion of Malgris receded. Not dramatically -- not one day monster, the next day not. Slow. Over generations, he was no longer aging. No longer fully human. His generals aged around him and were replaced. He learned patience because time stopped meaning what it used to mean.
+**Medieval period:**
+He began inserting himself into human power structures in northern France -- not for territory in the human sense, but because controlling human political systems provided cover, resources, and reach. This is when the Pourfendeur clan first identified him as a target.
 
 **1300s France -- The Pourfendeur Engagement:**
 The first bloodline that genuinely slowed him. Not stopped -- slowed. The clan's shadow power is the one thing in the natural world that is specifically effective against his kind of ancient demonic substance. They are literally made of the counter-force. This is why he could not simply walk into their holdings. He needed strategy. He needed numbers. He needed months of preparation.
@@ -42,15 +42,21 @@ When the Dog Tamer is defeated by two untrained boys who have had their power fo
 
 ## Motivation
 
-Pure elimination.
+Legend.
 
-He does not want territory in London. He does not want the brothers to serve him. He does not want to understand them or teach them or test them in any way that benefits them.
+The Pourfendeur clan killed thousands of demons over their operational history. Hundreds of years of active hunting. Generals destroyed. Ancient presences ended. The clan's body count in the demonic hierarchy is significant -- significant enough that within demon culture, the Pourfendeur name carries fear.
 
-He wants the Pourfendeur bloodline to end. Because it is the only thing that has ever been specifically built to end him. As long as even one person carries that blood, there is a variable he cannot control. He has operated without uncontrollable variables for centuries. He intends to return to that state.
+Malgris wants to be the one who ended them.
 
-His measured, almost polite manner is not a mask for rage. He genuinely is not angry. He is completing a task that he should have completed in the 1350s. He views his own incomplete work in France with something approaching irritation at himself, not theatrics at the brothers.
+Not for revenge. Not for territory. Not because he is threatened. Because in the hierarchy of demon achievement, destroying the last of a bloodline that has killed thousands of your kind is a permanent claim to legend. An immortal reputation. Something that gets spoken about for as long as demons exist.
 
-When he says "Your father was brave. It didn't help him." -- he is not performing cruelty. He is telling them the truth. He respected Remy. Remy hunted well alone for years, without training, without clan support. That legitimately impresses Malgris. And it did not save him. That is the truth he is delivering.
+He almost earned it in France. He did not. That incompletion is the only thing that approaches irritation for him -- not because he is angry, but because the record is unfinished. An almost is not a legend. Only a clean ending is.
+
+The brothers are the final chapter. Ending them does not just close a loose end -- it writes his name into demonic history permanently. He is not in a hurry. He will do it correctly this time.
+
+His measured, almost polite manner is not a mask for anything. He genuinely is not angry. He respects the brothers' bloodline -- their father hunted well alone for years, without training, without clan support. That legitimately impresses him. And it changes nothing. A worthy opponent makes the legend cleaner, not harder.
+
+When he says "Your father was brave. It didn't help him." -- he is not being cruel. He is telling them the truth. He respected Remy. That respect did not save Remy and it will not save them. That is the information he is delivering.
 
 ---
 
